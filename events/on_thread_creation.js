@@ -52,7 +52,7 @@ module.exports = {
                             new ButtonBuilder()
                                 .setStyle(ButtonStyle.Link)
                                 .setLabel("See This")
-                                .setURL("https://google.com")
+                                .setURL("https://ctl.stanford.edu/students/fundamentals-efficient-reading")
                         )
                         .addTextDisplayComponents(
                             new TextDisplayBuilder().setContent("* If you don't know how to read yet"),
