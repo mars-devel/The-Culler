@@ -1,0 +1,12 @@
+{
+    "thread": {
+        "system_component": {
+            "new": {},
+            "agreed": {}
+        },
+        "moderation_components": {
+            "default_lock": {},
+            "disdain": {}
+        }
+    }
+}

@@ -1,3 +1,9 @@
 {
-	
+    "moderated_forum_channels": ["1547101834949435564"],
+	"roles": {
+        "override_thread_verification": ["1547103465824714782", "ax"],
+        "moderation": []
+    }
+
+    
 }
